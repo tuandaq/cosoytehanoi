@@ -1,0 +1,290 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Đa khoa Phương Đông",
+                "address": "Số 9, Phố Viên Cổ, Phường Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7815,
+                    21.0630
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Nam Thăng Long",
+                "address": "234 Phú Diễn, Bắc Từ Liêm, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7680,
+                    21.0765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Đa khoa Hà Nội",
+                "address": "29 Cát Linh, Đống Đa, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8342,
+                    21.0278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Bách Khoa",
+                "address": "50 Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
+                "type": "Trạm y tế"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8523,
+                    21.0065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Kim Liên",
+                "address": "123 Xã Đàn, Đống Đa, Hà Nội",
+                "type": "Trạm y tế"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8256,
+                    21.0139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Đa khoa 108",
+                "address": "1 Trần Thánh Tông, Hoàn Kiếm, Hà Nội",
+                "type": "Phòng khám"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8390,
+                    21.0283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Đa khoa Tâm Anh",
+                "address": "108 Phố Huế, Hai Bà Trưng, Hà Nội",
+                "type": "Phòng khám"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8490,
+                    21.0069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Nhi Trung ương",
+                "address": "18/879 La Thành, Đống Đa, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8214,
+                    21.0287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Phụ sản Hà Nội",
+                "address": "929 La Thành, Đống Đa, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8190,
+                    21.0295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Thanh Xuân Trung",
+                "address": "85 Nguyễn Trãi, Thanh Xuân, Hà Nội",
+                "type": "Trạm y tế"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8100,
+                    20.9945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Đa khoa Quốc tế Hà Nội",
+                "address": "32 Nguyễn Thị Định, Cầu Giấy, Hà Nội",
+                "type": "Phòng khám"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7870,
+                    21.0292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Xanh Pôn",
+                "address": "12 Chu Văn An, Ba Đình, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8346,
+                    21.0412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Phương Liệt",
+                "address": "72 Khương Đình, Thanh Xuân, Hà Nội",
+                "type": "Trạm y tế"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8265,
+                    20.9935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Tim Hà Nội",
+                "address": "78 Nguyễn Trãi, Thanh Xuân, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8105,
+                    20.9967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Đa khoa An Khang",
+                "address": "56 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",
+                "type": "Phòng khám"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7895,
+                    21.0432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Bạch Mai",
+                "address": "78 Giải Phóng, Đống Đa, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8473,
+                    21.0097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Cầu Giấy",
+                "address": "42 Cầu Giấy, Cầu Giấy, Hà Nội",
+                "type": "Trạm y tế"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7860,
+                    21.0378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Đa khoa Việt Mỹ",
+                "address": "98 Nguyễn Văn Huyên, Cầu Giấy, Hà Nội",
+                "type": "Phòng khám"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7885,
+                    21.0399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Thanh Nhàn",
+                "address": "42 Nguyễn Văn Linh, Hai Bà Trưng, Hà Nội",
+                "type": "Bệnh viện"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8553,
+                    21.0084
+                ]
+            }
+        }
+    ]
+}
